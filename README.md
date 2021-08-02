@@ -11,10 +11,12 @@ The purpose of the project is to provide an analysis on the effect of city type 
 
 ## Results
 
-![PyBer_totalsummary](githubcomDavidFGitH)
+![PyBer_totalsummary](https://github.com/DavidFGitH/PyBer_Analysis/blob/main/Resources/PyBer_datasummary.png)
+
 Looking at the data shows that the total rides, drivers and fares in rural areas are dwarfed by the number in suburban and urban city types. In fact, the numbers of rides, drivers and fares in suburban type cities more than those of rural cities, which is followed by urban city numbers in the same factors more than doubling those of suburban cities. But although it can be said the market is bigger for urban and suburban cities, it comes with lower average fares per ride and lover average fares per driver. Plus, although the average fare per ride decreases gradually moving from rural to suburban to urban, there is a significant decrease in the average fare per driver with the same transition. Looking at the data summary, we can clearly see that number of city drivers outnumber the number of rides, meaning that there is an excess of drivers who haven't given rides. Although we can't assume that there all drivers have had rides for suburban and rural cities, clearly the ratio of the number rides compared to number of drivers decreases from rural to urban. It can also be assumed that people are paying more per ride in rural areas due to longer distances.
 
-![PyBer_weeklyfare](githubcomDavidFGitH)
+![PyBer_weeklyfare](https://github.com/DavidFGitH/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 With the graph, the clearest conclusion we can make is that the total weekly fare is the highest for urban cities, followed by suburban and then rural. Other than that, more data and context would probably be needed to see if they all follow similar trends over time, etc. We can see that there is never an instance where any of the weekly fare of rural exceeds suburban, or suburban exceeds urban respectively. There are cases where we can see all types of cities following similar trends but more analysis would need to be made to see if this is conclusive.
 
 ## Summary
